@@ -1,0 +1,8 @@
+{
+  "appId": "com.mareaswatch.app",
+  "appName": "Mareas Watch",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

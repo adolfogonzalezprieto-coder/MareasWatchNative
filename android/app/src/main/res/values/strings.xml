@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Mareas Watch</string>
+    <string name="title_activity_main">Mareas Watch</string>
+    <string name="package_name">com.mareaswatch.app</string>
+    <string name="custom_url_scheme">com.mareaswatch.app</string>
+</resources>

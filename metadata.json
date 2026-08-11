@@ -1,0 +1,6 @@
+{
+  "name": "Mareas y Tiempo - OnePlus Watch 3",
+  "description": "Aplicación de mareas, meteorología marina y GPS optimizada para OnePlus Watch 3 y Wear OS",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
